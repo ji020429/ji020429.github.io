@@ -19,7 +19,10 @@ HTML, CSS, JS 웹 표준을 사용한 반응형 포트폴리오 사이트
 
 ### 참고
 RGB 색상표: https://www.html-color-names.com/color-chart.php
+</br>
 색상 조합 만들기: https://mycolor.space/
+</br>
 Gradient 생성: https://cssgradient.io/
+</br>
 
 CSS 연결 - Font-awesome 연결 - Google Webfont - 이미지 - 색상 추가 - 내용 추가
